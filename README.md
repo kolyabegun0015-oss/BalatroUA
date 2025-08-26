@@ -1,0 +1,2 @@
+# BalatroUA
+Українська локалізація Balatro
